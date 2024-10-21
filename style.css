@@ -134,3 +134,36 @@ body{
 	color: #474747;
 	margin: 4px 0;
 }
+/* Service Section */
+.service-section{
+    padding-bottom: 50px;
+}
+.service-title-box p {
+	text-align: center;
+	width: 800px;
+	margin: auto;
+	margin-top: 24px;
+	line-height: 30px;
+	color: #757575;
+}
+.service-box-wrap {
+	display: flex;
+	justify-content: space-between;
+	margin-top: 50px;
+}
+.service-box {
+	box-shadow: 1px 1px 38px #97919124;
+	margin-right: 24px;
+	padding: 30px;
+}
+.service-box:last-child{
+	margin-right: 0;
+}
+.service-box h3 {
+	font-size: 20px;
+	margin: 20px 0;
+}
+.service-box p {
+	color: #757575;
+	line-height: 30px;
+}
