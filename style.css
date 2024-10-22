@@ -207,6 +207,9 @@ body{
 	padding-bottom: 30px;
 	border-bottom: 1px solid #ddd;
 }
+.my-education-box:last-child p{
+	border-bottom: none;
+}
 .button-resume {
 	text-align: center;
 	margin-top: 45px;
